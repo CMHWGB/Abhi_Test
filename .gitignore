@@ -7,3 +7,9 @@ bin/*
 
 .kitchen/
 .kitchen.local.yml
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
